@@ -1,6 +1,6 @@
 # Clone do Twitter
 
-Desenvolvido com a finalidade de praticar meus conhecimento em em ReactJS, Styled-component e UI/UX. <br>
+Desenvolvido com a finalidade de praticar meus conhecimentos em ReactJS, Styled-component e UI/UX. <br>
 <br>
 Video da pagina, em meu perfil no linkedin : https://www.linkedin.com/posts/sergio-manoel-639060115_reactjs-ui-ux-activity-6896626723048210432-u9dj
 
